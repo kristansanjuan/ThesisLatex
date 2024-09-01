@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.30)  1 SEP 2024 20:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.30)  1 SEP 2024 21:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -119,20 +119,20 @@ L3 programming layer <2024-07-20>
 Here is how much of TeX's memory you used:
  891 strings out of 473899
  17409 string characters out of 5726500
- 1927960 words of memory out of 5000000
+ 1929960 words of memory out of 5000000
  23787 multiletter control sequences out of 15000+600000
  565419 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,6n,50p,675b,220s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 35i,6n,50p,990b,220s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\nagat\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm
 1000.pk> <C:\Users\nagat\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\ecbx1000.pk> <C:\Users\nagat\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
 /dpi600\ecbx1440.pk> <C:\Users\nagat\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
 pen/ec/dpi600\ecrm1200.pk> <C:\Users\nagat\AppData\Local\MiKTeX\fonts/pk/ljfour
 /jknappen/ec/dpi600\ecrm1728.pk>
-Output written on "Thesis Outline.pdf" (6 pages, 51418 bytes).
+Output written on "Thesis Outline.pdf" (6 pages, 52824 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
+ 176 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
